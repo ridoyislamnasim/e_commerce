@@ -1,0 +1,18 @@
+/* SweetAlert2 theme-based button colors */
+.swal2-confirm-theme {
+  background-color: #2563eb !important; /* blue-600 */
+  color: #fff !important;
+}
+.swal2-cancel-theme {
+  background-color: #f3f4f6 !important; /* gray-100 */
+  color: #111827 !important;
+}
+
+body.dark .swal2-confirm-theme {
+  background-color: #22d3ee !important; /* cyan-400 */
+  color: #0f172a !important;
+}
+body.dark .swal2-cancel-theme {
+  background-color: #1e293b !important; /* slate-800 */
+  color: #f1f5f9 !important;
+}
